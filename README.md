@@ -25,12 +25,13 @@ To install required Python packages:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Testing
 Tests on JAX auto-differentiation are located in the tests/ folder and can be run with:
 ```bash
 pytest tests/
+```
 
 ## All the other necessary details are included in the report
 
