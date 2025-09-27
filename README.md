@@ -7,7 +7,7 @@ A coursework project for the S2 module: using Bayesian inference to estimate the
 
 ## Project Structure
 
-- `all_code/`
+- `src/`
   - `hole_model.py` – Custom functions used throughout the project  
   - `notebook_demonstration/` – Step-by-step notebook demonstrating the full workflow
 
